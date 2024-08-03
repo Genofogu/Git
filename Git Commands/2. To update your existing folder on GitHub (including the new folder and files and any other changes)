@@ -1,0 +1,11 @@
+Step 1: Navigate to your folder in file manager and right click then git bash here         #if you in linux then, Open Git Bash and navigate to your folder using cd command.
+Step 2: In git bash use following commands:
+git status
+git add .
+git commit -m "Your commit message."
+git push origin master                 #If your default branch is named main instead of master, replace master with main in the push command like this "git push origin main
+"
+
+
+Your repo is updated.
+--------------------------------------------   ALL DONE   ----------------------------------------------------------
