@@ -1,6 +1,6 @@
-Step 1: Open file manager and select the folder.
-Step 2: Right click and click on Git bash here.   #if you its not appear (install git first)
-Step 3: Write the following commands:
+Step 1: Open file manager and select the folder.  #If linux user:- Open Git Bash and navigate to the folder you want to upload using cd command
+Step 2: Right click and click on Git bash here.   #if git bash not appear (install git first)
+Step 3: In bit bash write the following commands:
 git init
 git add .
 git commit -m "Your commit message."
@@ -19,6 +19,8 @@ step 7: Change the branch by click on Switch to another branch then choose maste
 If you want to delete main branch or any other branch.
 step 8: Click on Switch branches/tags and click on see all branches
 step 9: Delete main branch in Your branch section.              #In this case we delete main branch (you can delete any extra branch , if it needed to delete.)
+
+
 
 
 ---------------------------------------------------------------------------   ALL DONE   ---------------------------------------------------------------------------
