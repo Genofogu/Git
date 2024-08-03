@@ -1,0 +1,24 @@
+Step 1: Open file manager and select the folder.
+Step 2: Right click and click on Git bash here.   #if you its not appear (install git first)
+Step 3: Write the following commands:
+git init
+git add .
+git commit -m "Your commit message."
+git remote add origin <Your Github link>          #How to get link:- create a repository and in repository click on code, then copy link and paste here. note dont use these <>, simple paste the link.
+git push -u origin master                         # here master is your branch name.
+
+
+ADDITIONAL STEP IF YOU WANT MASTER AS Deafault branch.
+
+step 4: Open Github and go to the repository which you was choosed to upload your folders.
+step 5: Click on Switch branches/tags and choose master branch.
+step 6: Click on setting of the branch
+step 7: Change the branch by click on Switch to another branch then choose master branch and upadte.              #Note: In setting you see default branch as main. 
+
+
+If you want to delete main branch or any other branch.
+step 8: Click on Switch branches/tags and click on see all branches
+step 9: Delete main branch in Your branch section.              #In this case we delete main branch (you can delete any extra branch , if it needed to delete.)
+
+
+---------------------------------------------------------------------------   ALL DONE   ---------------------------------------------------------------------------
